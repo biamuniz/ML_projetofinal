@@ -1,7 +1,7 @@
 # ML_projetofinal
 Repositório para documentar o trabalho final da disciplina Machine Learning Aplicado ao Jornalismo, do Master em Jornalismo de Dados, Automação e Data Storytelling do Insper
 
-Grupo: Alessandro Feitosa Jr, Bianca Muniz, Jéssica Avelar, Renan Cavalcante, Ricardo Grinbaum, Vinicius Marques
+**Grupo:** Alessandro Feitosa Jr, Bianca Muniz, Jéssica Avelar, Renan Cavalcante, Ricardo Grinbaum, Vinicius Marques
 
 ### Modelo para segmentar, a partir dos votos, os grupos de votação na câmara.
 * Base de dados a serem utilizadas: As bases de votação da Câmara de 2019 a 2021
