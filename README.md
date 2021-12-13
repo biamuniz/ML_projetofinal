@@ -10,14 +10,12 @@ Repositório para documentar o trabalho final da disciplina Machine Learning Apl
 * Utilidade do modelo: entender sobre os partidos/políticos, as diferenças entre as casas e as posições partidárias.
 
 **Queremos dividir nossas observações em grupos**
-* Diferente dos problemas de classificação, não temos grupos pré-definidos, nem temos a classificação destes grupos em nossas observações.
-* O objetivo é criar grupos a partir de características dos nossos dados.
-**Queremos grupos:**
-* Diferentes uns dos outros
-* Observações dentro de cada grupo parecidas
+* Diferente dos problemas de classificação, não temos grupos pré-definidos, nem temos a classificação destes grupos em nossas observações;
+* O objetivo é criar grupos a partir de características dos nossos dados;
+* Queremos grupos diferentes uns dos outros e com observações dentro de cada grupo parecidas.
 
 ## Como usar este repositório:
-* Em `códigos` estão os notebooks em Python utilizados para baixar as bases, formatar planilhas e clusterizar os grupos de votação;
-* Em `dados` estão os arquivos de entrada e saída dos códigos;
-* Em `análises` fizemos o upload de arquivos auxiliares das análises: visualizações, arquivos de texto, planilhas;
-* Em `atividades` estão arquivos criados para a resolução de tarefas anteriores relacionadas ao trabalho final da disciplina.
+* Em [`códigos`](https://github.com/biamuniz/cluster-deputados/tree/main/c%C3%B3digos) estão os notebooks em Python utilizados para baixar as bases, formatar planilhas e clusterizar os grupos de votação;
+* Em [`dados`](https://github.com/biamuniz/cluster-deputados/tree/main/dados) estão os arquivos de entrada e saída dos códigos;
+* Em [`análises`](https://github.com/biamuniz/cluster-deputados/tree/main/an%C3%A1lises) fizemos o upload de arquivos auxiliares das análises: visualizações, arquivos de texto, planilhas;
+* Em [`atividades`](https://github.com/biamuniz/cluster-deputados/tree/main/atividades) estão arquivos criados para a resolução de tarefas anteriores relacionadas ao trabalho final da disciplina.
