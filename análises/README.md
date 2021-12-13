@@ -53,3 +53,4 @@ No cluster 2 temos novamente a presença do PSL. O partido aparece aqui como 9 d
 
 
 ## Visualizações
+Algumas das análises descritas foram colocadas em uma visualização feita no [flourish.studio](https://flourish.studio/). O resultado pode ser visto no [link]( https://public.flourish.studio/story/1064518/)
